@@ -18,6 +18,8 @@
 编程题
 -
 1、概述脚手架实现过程，并使用NodeJS完成一个自定义的小型脚手架工具
+* 脚手架文件路径：code/yuyun-cli
+* 模板文件路径：https://github.com/YuYun95/vue-template.git
 
 ### 脚手架实现过程：
 * 拉取模板
@@ -25,5 +27,7 @@
 * 收尾清理
 
 2、尝试使用Gulp完成项目的自动化构建
+* 项目文件路径：code/pages-boilerplate-gulp
 
 3、使用Grunt完成项目的自动化构建
+* 项目文件路径：code/pages-boilerplate-grunt
